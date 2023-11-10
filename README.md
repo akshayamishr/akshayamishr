@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshayamishr
 - 👀 I’m interested in ...learning new things
-- 🌱 I’m currently learning ...programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...programming with C++
+- 💞️ I’m looking to collaborate on ...project with my beginner level skills
 - 📫 How to reach me ...akshayamishra999@gmail.com
 
 <!---
