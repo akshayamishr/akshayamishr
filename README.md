@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayamishr
 - 👀 I’m interested in ...learning new things
-- 🌱 I’m currently learning ...programming with C++
+- 🌱 I’m currently learning ...programming with C++ and Native Android Development
 - 💞️ I’m looking to collaborate on ...project with my beginner level skills
 - 📫 How to reach me ...akshayamishra999@gmail.com
 
